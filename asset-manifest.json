@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal-introduction/static/css/main.fb9e4013.css",
+    "main.js": "/personal-introduction/static/js/main.9916fea2.js",
+    "static/js/453.96cba20d.chunk.js": "/personal-introduction/static/js/453.96cba20d.chunk.js",
+    "static/media/SonTan.jpg": "/personal-introduction/static/media/SonTan.616a828739a7a78b487e.jpg",
+    "index.html": "/personal-introduction/index.html",
+    "main.fb9e4013.css.map": "/personal-introduction/static/css/main.fb9e4013.css.map",
+    "main.9916fea2.js.map": "/personal-introduction/static/js/main.9916fea2.js.map",
+    "453.96cba20d.chunk.js.map": "/personal-introduction/static/js/453.96cba20d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb9e4013.css",
+    "static/js/main.9916fea2.js"
+  ]
+}
